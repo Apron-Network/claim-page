@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bf1af27.chunk.css",
+    "main.js": "/static/js/main.28cdbdcc.chunk.js",
+    "main.js.map": "/static/js/main.28cdbdcc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d519985c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d519985c.js.map",
+    "static/js/2.8df0f32c.chunk.js": "/static/js/2.8df0f32c.chunk.js",
+    "static/js/2.8df0f32c.chunk.js.map": "/static/js/2.8df0f32c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.617251640fc6d9ddd9cb8e0837ba9013.js": "/precache-manifest.617251640fc6d9ddd9cb8e0837ba9013.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0bf1af27.chunk.css.map": "/static/css/main.0bf1af27.chunk.css.map",
+    "static/js/2.8df0f32c.chunk.js.LICENSE.txt": "/static/js/2.8df0f32c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Monda-Regular.cc32ac40.ttf",
+    "static/media/getFetch.cjs": "/static/media/getFetch.013f0b90.cjs",
+    "static/media/logo.png": "/static/media/logo.9465c698.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d519985c.js",
+    "static/js/2.8df0f32c.chunk.js",
+    "static/css/main.0bf1af27.chunk.css",
+    "static/js/main.28cdbdcc.chunk.js"
+  ]
+}
