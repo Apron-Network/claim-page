@@ -2,4 +2,4 @@
 Claim page
 
 
-http://apron.network/claim-page/
+https://apron.network/claim-page/
